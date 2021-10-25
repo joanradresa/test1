@@ -1,0 +1,48 @@
+Last login: Mon Oct 25 22:35:43 on ttys001
+joanradresa@Joans-MBP joan % git config --global user.name "Emma Paris"
+joanradresa@Joans-MBP joan % git config --global user.email "eparis@atlassian.com"
+joanradresa@Joans-MBP joan %                                                      
+joanradresa@Joans-MBP joan % 
+joanradresa@Joans-MBP joan % git init     
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/joanradresa/Desktop/joan/.git/
+joanradresa@Joans-MBP joan % git config --global user.name "Joan Radresa"         
+joanradresa@Joans-MBP joan % git config --global user.email "joanradresabiete@gmail.com"
+joanradresa@Joans-MBP joan % git init
+Reinitialized existing Git repository in /Users/joanradresa/Desktop/joan/.git/
+joanradresa@Joans-MBP joan % nano qwer
+
+
+  GNU nano 2.0.6                                File: qwer                                                             Modified  
+
+Hola nois 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help          ^O WriteOut          ^R Read File         ^Y Prev Page         ^K Cut Text          ^C Cur Pos
+^X Exit              ^J Justify           ^W Where Is          ^V Next Page         ^U UnCut Text        ^T To Spell
